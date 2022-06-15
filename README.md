@@ -1,6 +1,6 @@
 1ая версия диплома (защищено на 5). Вторая версия (в разработке) - [edsm-v2](https://github.com/Spanri/edsm-v2)
 
-# СЭД МТУСИ :sweat_drops:
+# СЭД  :sweat_drops:
 
 Vue.js / Django (rest framework) проект
 
